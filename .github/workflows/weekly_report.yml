@@ -41,11 +41,17 @@ jobs:
     - name: Generate report
       run: python scripts/reporter.py
       
-    - name: Commit and push report
+    - name: Commit report if changed
+      id: commit-report
       run: |
-        git add tech_trends_report.md
-        git commit -m "Auto-update weekly tech report"
-        git push
+          if ! git diff --quiet tech_trends_report.md; then
+            git add tech_trends_report.md
+            git commit -m "Auto-update weekly tech report"
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes detected in report"
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          fi
 
     - name: Archive old reports and create new
       uses: actions/github-script@v6
