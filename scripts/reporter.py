@@ -21,7 +21,7 @@ def generate_report():
         if not items:
             continue
             
-        trends_content += f"\n## {category} 领域\n"
+        trends_content += f"\n## {category} Field\n"
         for item in items:
             fire_emoji = "🔥" * item["score"]
             source_emoji = {
