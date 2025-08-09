@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Auto-Scan** is an automated pipeline for collecting, processing, and reporting trending technology topics from multiple sources. It uses GitHub Actions to generate a weekly report, categorizing hot projects, questions, and papers in fields like AI, Web, Cloud, Quantum, and Rust.
+**Tech-Report-Generator** is an automated pipeline for collecting, processing, and reporting trending technology topics from multiple sources. It uses GitHub Actions to generate a weekly report, categorizing hot projects, questions, and papers in fields like AI, Web, Cloud, Quantum, and Rust.
 
 ## Features
 
