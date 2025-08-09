@@ -41,7 +41,16 @@ jobs:
         git add tech_trends_report.md
         git commit -m "Auto-update weekly tech report"
         git push
-        
+
+    - name: Validate email recipient
+      run: |
+        if [ -z "${{ secrets.REPORT_RECEIVER }}" ]; then
+          echo "ERROR: REPORT_RECEIVER secret is not set!"
+          exit 1
+        else
+          echo "Sending report to ${{ secrets.REPORT_RECEIVER }}"
+        fi
+                
     - name: Send email via GitHub App
       uses: dawidd6/action-send-mail@v3
       with:
