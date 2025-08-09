@@ -118,7 +118,7 @@ jobs:
           --arg from "onboarding@resend.dev" \
           --arg to "$RECEIVER_EMAIL" \
           --arg subject "Weekly Tech Report - $DATE" \
-          --arg html "REPORT_CONTENT" \
+          --arg html "$REPORT_CONTENT" \
           '{from: $from, to: $to, subject: $subject, html: $html}'
         )
 
