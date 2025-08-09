@@ -8,7 +8,7 @@
 ### 🔥🔥🔥 claude-code-security-review
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1277
+- **Metrics**: ⭐ 1279
 - **Link**: [github.com](https://github.com/anthropics/claude-code-security-review)
 
 
