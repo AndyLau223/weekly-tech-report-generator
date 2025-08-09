@@ -1,0 +1,9 @@
+{
+  "enabled": ["github", "arxiv"],
+  "github": {
+    "categories": ["AI", "Web", "Cloud"]
+  },
+  "arxiv": {
+    "categories": ["cs.AI", "cs.CV", "cs.LG"]
+  }
+}
