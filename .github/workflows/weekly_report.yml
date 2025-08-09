@@ -110,7 +110,7 @@ jobs:
         RECEIVER_EMAIL: ${{ secrets.REPORT_RECEIVER }}
         RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
       run: | 
-        REPORT_CONTENT=$(cat tech_trends_report.md)
+        REPORT_CONTENT=$(cat tech_trends_report.html)
         DATE=$(date +"%Y-%m-%d")
         
 
