@@ -2,31 +2,38 @@ import requests
 import json
 import os
 from datetime import datetime, timedelta
+import feedparser  # 新增依赖
 
-# 加载数据源配置
-with open('../config/sources.json') as f:
+with open('config/sources.json') as f:
     SOURCES = json.load(f)
 
 def fetch_github_trending():
-    """获取GitHub趋势项目"""
+    """获取GitHub趋势项目（修复API参数错误）"""
     url = "https://api.github.com/search/repositories"
     params = {
-        "q": "created:>" + (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d"),
+        "q": f"created:>{(datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')}",
         "sort": "stars",
         "order": "desc",
         "per_page": 20
     }
     headers = {"Accept": "application/vnd.github.v3+json"}
+    
+    # 添加GitHub Token避免限流
+    if "GITHUB_TOKEN" in os.environ:
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    
     response = requests.get(url, params=params, headers=headers)
+    response.raise_for_status()
+    
     return [{
         "title": item["name"],
         "url": item["html_url"],
         "stars": item["stargazers_count"],
-        "description": item["description"]
-    } for item in response.json()["items"]]
+        "description": item["description"] or ""
+    } for item in response.json().get("items", [])]
 
 def fetch_arxiv_papers():
-    """获取arXiv最新论文"""
+    """获取arXiv最新论文（修复XML解析）"""
     url = "http://export.arxiv.org/api/query"
     params = {
         "search_query": "cat:cs.*",
@@ -35,25 +42,56 @@ def fetch_arxiv_papers():
         "max_results": 15
     }
     response = requests.get(url, params=params)
-    # 解析XML响应（简化版）
+    response.raise_for_status()
+    
+    # 使用feedparser解析XML
+    feed = feedparser.parse(response.content)
     return [{
-        "title": entry.title.text,
-        "url": entry.id.text,
-        "summary": entry.summary.text[:200] + "..."
-    } for entry in response.feed.entry]
+        "title": entry.title,
+        "url": entry.link,
+        "summary": (entry.summary[:200] + "...") if entry.summary else ""
+    } for entry in feed.entries]
+
+def fetch_stackoverflow():
+    """获取StackOverflow热门问题（新增）"""
+    url = "https://api.stackexchange.com/2.3/questions"
+    params = {
+        "order": "desc",
+        "sort": "votes",
+        "tagged": ";".join(SOURCES["stackoverflow"]["tags"]),
+        "site": "stackoverflow",
+        "pagesize": 10,
+        "fromdate": int((datetime.now() - timedelta(days=7)).timestamp())
+    }
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    
+    return [{
+        "title": item["title"],
+        "url": item["link"],
+        "votes": item["score"],
+        "answers": item["answer_count"]
+    } for item in response.json().get("items", [])]
 
 def main():
     results = {}
     
     if "github" in SOURCES["enabled"]:
+        print("Fetching GitHub trends...")
         results["github"] = fetch_github_trending()
     
     if "arxiv" in SOURCES["enabled"]:
+        print("Fetching arXiv papers...")
         results["arxiv"] = fetch_arxiv_papers()
     
-    # 保存原始数据
+    if "stackoverflow" in SOURCES["enabled"]:
+        print("Fetching StackOverflow questions...")
+        results["stackoverflow"] = fetch_stackoverflow()
+    
     with open('raw_data.json', 'w') as f:
         json.dump(results, f, indent=2)
+    
+    print(f"Collected {sum(len(v) for v in results.values())} items")
 
 if __name__ == "__main__":
     main()
