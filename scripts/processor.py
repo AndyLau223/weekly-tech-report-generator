@@ -7,9 +7,8 @@ def deduplicate(items, keys=["title", "description"], threshold=3):
     """修复去重逻辑错误"""
     hashes = []
     for item in items:
-        # 拼接所有关键字段
         text = " ".join(str(item.get(key, "")) for key in keys)
-        if not text.strip():  # 处理空文本
+        if not text.strip(): 
             text = "empty"
         hashes.append(Simhash(text))
     
@@ -31,7 +30,7 @@ def deduplicate(items, keys=["title", "description"], threshold=3):
 
 def calculate_trend_score(item):
     """统一趋势评分逻辑"""
-    if "stars" in item:  # GitHub项目
+    if "stars" in item:  # GitHub
         return min(5, max(1, item["stars"] // 500 + 1))
     elif "votes" in item:  # StackOverflow
         return min(5, max(1, item["votes"] // 20 + 1))
@@ -39,7 +38,6 @@ def calculate_trend_score(item):
         return 3  # 默认值
 
 def analyze_trends(data):
-    """修复关键字分析逻辑"""
     trends = defaultdict(list)
     
     # 配置技术关键词

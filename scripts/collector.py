@@ -2,13 +2,12 @@ import requests
 import json
 import os
 from datetime import datetime, timedelta
-import feedparser  # 新增依赖
+import feedparser 
 
 with open('config/sources.json') as f:
     SOURCES = json.load(f)
 
 def fetch_github_trending():
-    """获取GitHub趋势项目（修复API参数错误）"""
     url = "https://api.github.com/search/repositories"
     params = {
         "q": f"created:>{(datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')}",
@@ -18,7 +17,6 @@ def fetch_github_trending():
     }
     headers = {"Accept": "application/vnd.github.v3+json"}
     
-    # 添加GitHub Token避免限流
     if "GITHUB_TOKEN" in os.environ:
         headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
     
@@ -33,7 +31,6 @@ def fetch_github_trending():
     } for item in response.json().get("items", [])]
 
 def fetch_arxiv_papers():
-    """获取arXiv最新论文（修复XML解析）"""
     url = "http://export.arxiv.org/api/query"
     params = {
         "search_query": "cat:cs.*",
@@ -44,7 +41,6 @@ def fetch_arxiv_papers():
     response = requests.get(url, params=params)
     response.raise_for_status()
     
-    # 使用feedparser解析XML
     feed = feedparser.parse(response.content)
     return [{
         "title": entry.title,
@@ -53,7 +49,6 @@ def fetch_arxiv_papers():
     } for entry in feed.entries]
 
 def fetch_stackoverflow():
-    """获取StackOverflow热门问题（新增）"""
     url = "https://api.stackexchange.com/2.3/questions"
     params = {
         "order": "desc",

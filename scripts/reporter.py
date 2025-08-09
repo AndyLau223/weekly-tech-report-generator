@@ -1,8 +1,6 @@
 import json
 from datetime import datetime
 import markdown
-from pathlib import Path
-import os
 
 def generate_report():
     with open('processed_data.json') as f:
