@@ -56,14 +56,15 @@ jobs:
           echo "Sending report to ${{ secrets.REPORT_RECEIVER }}"
         fi
 
-    - name: Send email via GitHub App
-      uses: dawidd6/action-send-mail@v3
+    - name: Create GitHub Issue
+      uses: actions/github-script@v6
       with:
-        server_address: smtp.gmail.com
-        server_port: 465
-        username: actions@github.com  # GitHub提供的专用邮箱
-        password: ${{ secrets.GITHUB_TOKEN }}  # 使用GITHUB_TOKEN作为"密码"
-        subject: "技术热点周报 - $(date +'%Y-%m-%d')"
-        body: file://tech_trends_report.md
-        to: ${{ secrets.REPORT_RECEIVER }}
-        from: GitHub Actions
+        script: |
+          const fs = require('fs').promises;
+          const report = await fs.readFile('tech_trends_report.md', 'utf8');
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `技术热点周报 - ${new Date().toISOString().split('T')[0]}`,
+            body: `## 自动生成的技术热点报告\n\n${report}`
+          });
