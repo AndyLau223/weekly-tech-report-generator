@@ -1,10 +1,9 @@
-# 技术热点周报 ({{DATE}})
+# Weekly Tech Trends Report ({{DATE}})
 
-> 本报告由自动化系统生成，共追踪 {{ITEM_COUNT}} 个技术热点
+> This report is automatically generated, tracking {{ITEM_COUNT}} trending tech items.
 
 {{TRENDS}}
 
 ---
 
-**数据来源**: GitHub趋势项目 | StackOverflow热门问题 | arXiv最新论文  
-**生成时间**: {{DATE}}
+**Data Sources**: GitHub Trending Projects | StackOverflow Hot Questions | arXiv Latest Papers

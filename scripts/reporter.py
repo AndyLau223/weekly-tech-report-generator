@@ -1,5 +1,7 @@
 import json
 from datetime import datetime
+import markdown
+from pathlib import Path
 import os
 
 def generate_report():
@@ -29,22 +31,35 @@ def generate_report():
             }.get(item["type"], "🔗")
             
             trends_content += (
-                f"### {fire_emoji} {item['title']}\n"
-                f"- **来源**: {source_emoji} {item['type'].capitalize()}\n"
-                f"- **指标**: {item['metrics']}\n"
-                f"- **链接**: [{item['url'].split('//')[-1].split('/')[0]}]({item['url']})\n\n"
+                f"\n### {fire_emoji} {item['title'].replace('\n', ' ')}\n\n"
+                f"- **Source**: {source_emoji} {item['type'].capitalize()}\n"
+                f"- **Metrics**: {item['metrics']}\n"
+                f"- **Link**: [{item['url'].split('//')[-1].split('/')[0]}]({item['url']})\n\n"
             )
-    
-    # 插入动态内容
+    # prepare for markdown
+    # replace dynamic content in template
     report = template.replace("{{DATE}}", report_date)
     report = report.replace("{{TRENDS}}", trends_content)
     report = report.replace("{{ITEM_COUNT}}", str(sum(len(i) for i in data["trends"].values())))
-    
-    # 保存报告
+
+    # 
     with open('tech_trends_report.md', 'w', encoding='utf-8') as f:
         f.write(report)
+
+    # prepare for html
+    with open('templates/report_template.html', 'r', encoding='utf-8') as f:
+        html_template = f.read()
+        
+    html_content = markdown.markdown(report)
+    template_html = html_template.replace("{{DATE}}", report_date)
+    template_html = template_html.replace("{{ITEM_COUNT}}", str(sum(len(i) for i in data["trends"].values())))
+    template_html = template_html.replace("<!-- CONTENT_PLACEHOLDER -->", html_content)
+
+    with open('tech_trends_report.html', 'w', encoding='utf-8') as f:
+        f.write(template_html)
     
     print(f"Generated report with {len(data['trends'])} categories")
+
 
 if __name__ == "__main__":
     generate_report()
