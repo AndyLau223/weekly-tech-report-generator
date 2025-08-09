@@ -1,10 +1,10 @@
 name: Weekly Tech Report
 
-# on:
-#   schedule:
-#     - cron: '0 14 * * 1'  # 每周一北京时间14:00运行
-#   workflow_dispatch:
-on: [push]
+on:
+  schedule:
+    - cron: '0 14 * * 1'  # 每周一北京时间14:00运行
+  workflow_dispatch:
+# on: [push]
 
 jobs:
   generate-report:
@@ -25,7 +25,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        
+    
+    - name: pull latest code
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@users.noreply.github.com'
+        git pull origin main --rebase
+
     - name: Run data collector
       run: python scripts/collector.py
       
@@ -37,8 +43,6 @@ jobs:
       
     - name: Commit and push report
       run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'actions@users.noreply.github.com'
         git add tech_trends_report.md
         git commit -m "Auto-update weekly tech report"
         git push
