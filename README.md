@@ -50,10 +50,3 @@
 - `simhash` library (`pip install simhash`)
 - GitHub repository with Actions enabled
 
-## License
-
-MIT License
-
----
-
-**Auto-Scan** helps you stay up-to-date with the hottest trends in
