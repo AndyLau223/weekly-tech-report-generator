@@ -45,8 +45,8 @@ jobs:
     - name: Send email via GitHub App
       uses: dawidd6/action-send-mail@v3
       with:
-        server: smtp.gmail.com
-        port: 587
+        server_address: smtp.gmail.com
+        server_port: 465
         username: actions@github.com  # GitHub提供的专用邮箱
         password: ${{ secrets.GITHUB_TOKEN }}  # 使用GITHUB_TOKEN作为"密码"
         subject: "技术热点周报 - $(date +'%Y-%m-%d')"
