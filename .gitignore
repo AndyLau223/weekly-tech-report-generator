@@ -8,6 +8,10 @@ __pycache__/
 # VScode
 .vscode
 
+# auto file
+processed_data.json
+raw_data.json
+
 # Distribution / packaging
 .Python
 build/
