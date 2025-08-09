@@ -8,7 +8,7 @@
 ### 🔥🔥🔥 claude-code-security-review
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1267
+- **Metrics**: ⭐ 1277
 - **Link**: [github.com](https://github.com/anthropics/claude-code-security-review)
 
 
@@ -33,7 +33,7 @@ highly engaging user experiences. These unique ch...
 ### 🔥 AionUi
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 382
+- **Metrics**: ⭐ 386
 - **Link**: [github.com](https://github.com/office-sec/AionUi)
 
 
@@ -49,7 +49,7 @@ highly engaging user experiences. These unique ch...
 ### 🔥🔥 bidc
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 892
+- **Metrics**: ⭐ 894
 - **Link**: [github.com](https://github.com/shuding/bidc)
 
 
