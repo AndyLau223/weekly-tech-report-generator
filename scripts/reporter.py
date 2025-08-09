@@ -29,9 +29,9 @@ def generate_report():
                 "stackoverflow": "❓",
                 "arxiv": "📜"
             }.get(item["type"], "🔗")
-            
+            title = item.get("title", "Untitled").replace('\n', ' ').strip()
             trends_content += (
-                f"\n### {fire_emoji} {item['title'].replace('\n', ' ')}\n\n"
+                f"\n### {fire_emoji} {title}\n\n"
                 f"- **Source**: {source_emoji} {item['type'].capitalize()}\n"
                 f"- **Metrics**: {item['metrics']}\n"
                 f"- **Link**: [{item['url'].split('//')[-1].split('/')[0]}]({item['url']})\n\n"
