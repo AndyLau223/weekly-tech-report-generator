@@ -82,3 +82,12 @@ jobs:
               });
             }
           }
+
+          await github.rest.issues.createComment({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: newIssue.data.number,
+            body: `Report is ready! @${{ github.actor }}`
+          })
+
+          
