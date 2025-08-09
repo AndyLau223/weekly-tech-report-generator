@@ -3,12 +3,12 @@
 > This report is automatically generated, tracking 7 trending tech items.
 
 
-## AI Field
+## AI 
 
 ### 🔥🔥🔥 claude-code-security-review
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1287
+- **Metrics**: ⭐ 1290
 - **Link**: [github.com](https://github.com/anthropics/claude-code-security-review)
 
 
@@ -33,7 +33,7 @@ highly engaging user experiences. These unique ch...
 ### 🔥 AionUi
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 390
+- **Metrics**: ⭐ 393
 - **Link**: [github.com](https://github.com/office-sec/AionUi)
 
 
@@ -44,7 +44,7 @@ highly engaging user experiences. These unique ch...
 - **Link**: [github.com](https://github.com/Foulvelstingw3S/Github-Mev-Bot)
 
 
-## Web Field
+## Web 
 
 ### 🔥🔥 bidc
 
@@ -53,7 +53,7 @@ highly engaging user experiences. These unique ch...
 - **Link**: [github.com](https://github.com/shuding/bidc)
 
 
-## Cloud Field
+## Cloud 
 
 ### 🔥🔥🔥 GAP: Gaussianize Any Point Clouds with Text Guidance
 
