@@ -1,9 +1,10 @@
 name: Weekly Tech Report
 
-on:
-  schedule:
-    - cron: '0 14 * * 1'  # 每周一北京时间14:00运行
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 14 * * 1'  # 每周一北京时间14:00运行
+#   workflow_dispatch:
+on: [push]
 
 jobs:
   generate-report:
@@ -50,7 +51,7 @@ jobs:
         else
           echo "Sending report to ${{ secrets.REPORT_RECEIVER }}"
         fi
-                
+
     - name: Send email via GitHub App
       uses: dawidd6/action-send-mail@v3
       with:
