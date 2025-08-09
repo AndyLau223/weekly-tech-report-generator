@@ -1,6 +1,7 @@
 import json
 from simhash import Simhash
 from collections import defaultdict
+from datetime import datetime
 
 def deduplicate(items, keys=["title", "description"], threshold=3):
     """修复去重逻辑错误"""
@@ -18,13 +19,13 @@ def deduplicate(items, keys=["title", "description"], threshold=3):
     for i, h in enumerate(hashes):
         is_duplicate = False
         for seen in seen_hashes:
-            if h.distance(seen) < threshold:
+            if h.distance(Simhash(seen)) < threshold:
                 is_duplicate = True
                 break
         
         if not is_duplicate:
             unique_items.append(items[i])
-            seen_hashes.add(h)
+            seen_hashes.add(h.value)
     
     return unique_items
 

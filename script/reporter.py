@@ -10,7 +10,7 @@ def generate_report():
     report_date = timestamp.strftime("%Y-%m-%d")
     
     # 加载模板
-    with open('templates/report_template.md') as f:
+    with open('templates/report_template.md', encoding='utf-8') as f:
         template = f.read()
     
     # 生成趋势内容
@@ -41,7 +41,7 @@ def generate_report():
     report = report.replace("{{ITEM_COUNT}}", str(sum(len(i) for i in data["trends"].values())))
     
     # 保存报告
-    with open('tech_trends_report.md', 'w') as f:
+    with open('tech_trends_report.md', 'w', encoding='utf-8') as f:
         f.write(report)
     
     print(f"Generated report with {len(data['trends'])} categories")
