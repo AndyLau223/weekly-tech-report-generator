@@ -47,24 +47,38 @@ jobs:
         git commit -m "Auto-update weekly tech report"
         git push
 
-    - name: Validate email recipient
-      run: |
-        if [ -z "${{ secrets.REPORT_RECEIVER }}" ]; then
-          echo "ERROR: REPORT_RECEIVER secret is not set!"
-          exit 1
-        else
-          echo "Sending report to ${{ secrets.REPORT_RECEIVER }}"
-        fi
-
-    - name: Create GitHub Issue
+    - name: Archive old reports and create new
       uses: actions/github-script@v6
       with:
         script: |
           const fs = require('fs').promises;
           const report = await fs.readFile('tech_trends_report.md', 'utf8');
-          await github.rest.issues.create({
+          
+          // 创建新 Issue
+          const newIssue = await github.rest.issues.create({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            title: `技术热点周报 - ${new Date().toISOString().split('T')[0]}`,
-            body: `## 自动生成的技术热点报告\n\n${report}`
+            title: `Weekly Tech Report - ${new Date().toISOString().split('T')[0]}`,
+            body: report,
+            labels: ['tech-trends-report']
           });
+          
+          // 归档旧报告（添加标签并关闭）
+          const oldIssues = await github.paginate(github.rest.issues.listForRepo, {
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            labels: 'tech-trends-report',
+            state: 'open'
+          });
+          
+          for (const issue of oldIssues) {
+            if (issue.number !== newIssue.data.number) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                labels: [...issue.labels.map(l => l.name), 'archived']
+              });
+            }
+          }
