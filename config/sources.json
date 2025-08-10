@@ -1,9 +1,68 @@
 {
-  "enabled": ["github", "arxiv"],
-  "github": {
-    "categories": ["AI", "Web", "Cloud"]
+  "enabled": [
+    "github",
+    "arxiv",
+    "stackoverflow",
+    "huggingface",
+    "hackernews",
+    "twitter",
+    "medium",
+    "techcrunch",
+    "openfin",
+    "sec_edgar",
+    "interiorgs",
+    "opendac"
+  ],
+  
+  "software_engineering": {
+    "github": {
+      "categories": ["AI", "Web", "Cloud", "Quantum", "Rust", "DevOps"],
+      "min_stars": 100
+    },
+    "stackoverflow": {
+      "tags": ["python", "javascript", "docker", "kubernetes", "microservices"],
+      "min_answers": 15
+    }
   },
-  "arxiv": {
-    "categories": ["cs.AI", "cs.CV", "cs.LG"]
+  
+  "ai": {
+    "arxiv": {
+      "categories": ["cs.AI", "cs.CV", "cs.LG", "cs.RO", "cs.CL"],
+      "min_citations": 5
+    },
+    "huggingface": {
+      "models": ["llama", "gpt", "bert", "stable-diffusion"],
+      "min_downloads": 1000
+    },
+    "interiorgs": {
+      "enabled": true,
+      "min_scenes": 50
+    }
+  },
+  
+  "fintech": {
+    "openfin": {
+      "sectors": ["blockchain", "digital_banking", "regtech", "insurtech"],
+      "min_impact": 3
+    },
+    "sec_edgar": {
+      "companies": ["AAPL", "MSFT", "GOOGL", "JPM", "BAC"],
+      "forms": ["10-K", "10-Q", "8-K"]
+    },
+    "dianjin": {
+      "enabled": true,
+      "tasks": ["financial_qa", "compliance_check", "investment_analysis"]
+    }
+  },
+  
+  "sustainability": {
+    "opendac": {
+      "enabled": true,
+      "material_types": ["MOFs", "COFs", "Zeolites"]
+    },
+    "cornerstone": {
+      "enabled": true,
+      "scope": ["scope1", "scope2", "scope3"]
+    }
   }
 }

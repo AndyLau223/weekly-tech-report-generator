@@ -1,67 +1,110 @@
-# Weekly Tech Trends Report (2025-08-09)
+# Weekly Tech Trends Report (2025-08-10)
 
-> This report is automatically generated, tracking 7 trending tech items.
+> This report is automatically generated, tracking 14 trending tech items.
+
+
+## Other 
+
+### 🔥🔥🔥🔥🔥 KittenTTS
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 6615
+- **Link**: [github.com](https://github.com/KittenML/KittenTTS)
+
+
+### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 88847163 downloads
+- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
+
+### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 55681401 downloads
+- **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
+
+
+### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 42909718 downloads
+- **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
+
+
+### 🔥🔥🔥🔥🔥 amazon/chronos-t5-small
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 34687278 downloads
+- **Link**: [huggingface.co](https://huggingface.co/amazon/chronos-t5-small)
 
 
 ## AI 
 
-### 🔥🔥🔥 claude-code-security-review
+### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 1290
-- **Link**: [github.com](https://github.com/anthropics/claude-code-security-review)
-
-
-### 🔥🔥🔥 Towards Generalizable Safety in Crowd Navigation via Conformal   Uncertainty Handling
-
-- **Source**: 📜 Arxiv
-- **Metrics**: Mobile robots navigating in crowds trained using reinforcement learning are
-known to suffer performance degradation when faced with out-of-distribution
-scenarios. We propose that by properly accountin...
-- **Link**: [arxiv.org](http://arxiv.org/abs/2508.05634v1)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 111895485 downloads
+- **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
-### 🔥🔥🔥 KuaiLive: A Real-time Interactive Dataset for Live Streaming   Recommendation
+### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
 
-- **Source**: 📜 Arxiv
-- **Metrics**: Live streaming platforms have become a dominant form of online content
-consumption, offering dynamically evolving content, real-time interactions, and
-highly engaging user experiences. These unique ch...
-- **Link**: [arxiv.org](http://arxiv.org/abs/2508.05633v1)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 59695427 downloads
+- **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
-### 🔥 AionUi
+### 🔥🔥🔥🔥🔥 Bingsu/adetailer
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 393
-- **Link**: [github.com](https://github.com/office-sec/AionUi)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 17504366 downloads
+- **Link**: [huggingface.co](https://huggingface.co/Bingsu/adetailer)
 
 
-### 🔥 Github-Mev-Bot
+### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 272
-- **Link**: [github.com](https://github.com/Foulvelstingw3S/Github-Mev-Bot)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 17362539 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
+
+
+### 🔥🔥🔥🔥🔥 openai-community/gpt2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 13874993 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai-community/gpt2)
 
 
 ## Web 
 
+### 🔥🔥🔥 open-lovable
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 1178
+- **Link**: [github.com](https://github.com/mendableai/open-lovable)
+
+
 ### 🔥🔥 bidc
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 894
+- **Metrics**: ⭐ 908
 - **Link**: [github.com](https://github.com/shuding/bidc)
 
 
-## Cloud 
+### 🔥 Chrome and Edge crash on specific websites like LinkedIn, Zoom, and Flipkart checkout
 
-### 🔥🔥🔥 GAP: Gaussianize Any Point Clouds with Text Guidance
+- **Source**: ❓ Stackoverflow
+- **Metrics**: 👍 0 | 💬 0
+- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79731048/chrome-and-edge-crash-on-specific-websites-like-linkedin-zoom-and-flipkart-che)
 
-- **Source**: 📜 Arxiv
-- **Metrics**: 3D Gaussian Splatting (3DGS) has demonstrated its advantages in achieving
-fast and high-quality rendering. As point clouds serve as a widely-used and
-easily accessible form of 3D representation, bridg...
-- **Link**: [arxiv.org](http://arxiv.org/abs/2508.05631v1)
+
+### 🔥 TypeError: Object of type RelativeBy is not JSON serializable for find_elements of WebElement
+
+- **Source**: ❓ Stackoverflow
+- **Metrics**: 👍 0 | 💬 0
+- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79730668/typeerror-object-of-type-relativeby-is-not-json-serializable-for-find-elements)
 
 
 
