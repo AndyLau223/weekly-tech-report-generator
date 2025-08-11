@@ -2,7 +2,7 @@ name: Weekly Tech Report
 
 on:
   schedule:
-    - cron: '0 14 * * 1'  # 每周一北京时间14:00运行
+    - cron: '0 8 * * 1'  
   workflow_dispatch:
 # on: [push]
 
