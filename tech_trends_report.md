@@ -1,6 +1,6 @@
-# Weekly Tech Trends Report (2025-09-01)
+# Weekly Tech Trends Report (2025-09-08)
 
-> This report is automatically generated, tracking 12 trending tech items.
+> This report is automatically generated, tracking 11 trending tech items.
 
 
 ## Other 
@@ -8,62 +8,45 @@
 ### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 92345636 downloads
+- **Metrics**: ⬇️ 112183087 downloads
 - **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 91514805 downloads
+- **Metrics**: ⬇️ 88874630 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 52668458 downloads
+- **Metrics**: ⬇️ 53806431 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
+
+
+### 🔥🔥🔥🔥🔥 tech4humans/yolov8s-signature-detector
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 27676020 downloads
+- **Link**: [huggingface.co](https://huggingface.co/tech4humans/yolov8s-signature-detector)
 
 
 ### 🔥🔥🔥🔥🔥 amazon/chronos-t5-small
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 31351854 downloads
+- **Metrics**: ⬇️ 23999015 downloads
 - **Link**: [huggingface.co](https://huggingface.co/amazon/chronos-t5-small)
-
-
-### 🔥🔥🔥🔥🔥 pyannote/wespeaker-voxceleb-resnet34-LM
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 20545140 downloads
-- **Link**: [huggingface.co](https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM)
 
 
 ## Web 
 
-### 🔥🔥🔥 Going over Fine Web with a Fine-Tooth Comb: Technical Report of Indexing   Fine Web for Problematic Content Search and Retrieval
-
-- **Source**: 📜 Arxiv
-- **Metrics**: Large language models (LLMs) rely heavily on web-scale datasets like Common
-Crawl, which provides over 80\% of training data for some modern models.
-However, the indiscriminate nature of web crawling raises challenges in data
-quality, safety, and ethics. Despite the critical importance of training data
-quality, prior research on harmful content has been limited to small samples
-due to computational constraints. This project presents a framework for
-indexing and analyzing LLM training datasets using an ElasticSearch-based
-pipeline. We apply it to SwissAI's FineWeb-2 corpus (1.5TB, four languages),
-achieving fast query performance--most searches in milliseconds, all under 2
-seconds. Our work demonstrates real-time dataset analysis, offering practical
-tools for safer, more accountable AI systems.
-- **Link**: [arxiv.org](http://arxiv.org/abs/2508.21788v1)
-
-
-### 🔥 immich-drop
+### 🔥 liquid-glass
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 231
-- **Link**: [github.com](https://github.com/Nasogaa/immich-drop)
+- **Metrics**: ⭐ 283
+- **Link**: [github.com](https://github.com/callstack/liquid-glass)
 
 
 ## AI 
@@ -71,35 +54,35 @@ tools for safer, more accountable AI systems.
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 111570433 downloads
+- **Metrics**: ⬇️ 99558944 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 69249233 downloads
+- **Metrics**: ⬇️ 61150271 downloads
 - **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 16827519 downloads
+- **Metrics**: ⬇️ 16735961 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ### 🔥🔥🔥🔥🔥 Bingsu/adetailer
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 16406339 downloads
+- **Metrics**: ⬇️ 16099711 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Bingsu/adetailer)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/roberta-base
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 11151443 downloads
+- **Metrics**: ⬇️ 11212198 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-base)
 
 
