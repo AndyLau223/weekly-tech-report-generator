@@ -1,6 +1,6 @@
-# Weekly Tech Trends Report (2025-09-08)
+# Weekly Tech Trends Report (2025-09-15)
 
-> This report is automatically generated, tracking 11 trending tech items.
+> This report is automatically generated, tracking 10 trending tech items.
 
 
 ## Other 
@@ -8,45 +8,36 @@
 ### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 112183087 downloads
+- **Metrics**: ⬇️ 121683470 downloads
 - **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 88874630 downloads
+- **Metrics**: ⬇️ 88313579 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 53806431 downloads
+- **Metrics**: ⬇️ 53909683 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
 
 
 ### 🔥🔥🔥🔥🔥 tech4humans/yolov8s-signature-detector
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 27676020 downloads
+- **Metrics**: ⬇️ 37104050 downloads
 - **Link**: [huggingface.co](https://huggingface.co/tech4humans/yolov8s-signature-detector)
 
 
-### 🔥🔥🔥🔥🔥 amazon/chronos-t5-small
+### 🔥🔥🔥🔥🔥 pyannote/segmentation-3.0
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 23999015 downloads
-- **Link**: [huggingface.co](https://huggingface.co/amazon/chronos-t5-small)
-
-
-## Web 
-
-### 🔥 liquid-glass
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 283
-- **Link**: [github.com](https://github.com/callstack/liquid-glass)
+- **Metrics**: ⬇️ 18307320 downloads
+- **Link**: [huggingface.co](https://huggingface.co/pyannote/segmentation-3.0)
 
 
 ## AI 
@@ -54,36 +45,36 @@
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 99558944 downloads
+- **Metrics**: ⬇️ 94983401 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 61150271 downloads
+- **Metrics**: ⬇️ 56805563 downloads
 - **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 16735961 downloads
+- **Metrics**: ⬇️ 15689250 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ### 🔥🔥🔥🔥🔥 Bingsu/adetailer
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 16099711 downloads
+- **Metrics**: ⬇️ 15580743 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Bingsu/adetailer)
 
 
-### 🔥🔥🔥🔥🔥 FacebookAI/roberta-base
+### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 11212198 downloads
-- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-base)
+- **Metrics**: ⬇️ 11695011 downloads
+- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
 
 
 
