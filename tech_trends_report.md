@@ -1,42 +1,42 @@
-# Weekly Tech Trends Report (2025-10-06)
+# Weekly Tech Trends Report (2025-10-13)
 
-> This report is automatically generated, tracking 13 trending tech items.
+> This report is automatically generated, tracking 10 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 bdh
+### 🔥🔥🔥🔥🔥 TinyRecursiveModels
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2446
-- **Link**: [github.com](https://github.com/pathwaycom/bdh)
+- **Metrics**: ⭐ 3887
+- **Link**: [github.com](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 103294520 downloads
+- **Metrics**: ⬇️ 112191334 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 80487580 downloads
+- **Metrics**: ⬇️ 53607827 downloads
 - **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 53291932 downloads
+- **Metrics**: ⬇️ 53070588 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
 
 
 ### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 34395792 downloads
+- **Metrics**: ⬇️ 51163722 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
@@ -45,63 +45,36 @@
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 94080258 downloads
+- **Metrics**: ⬇️ 116492781 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 55940362 downloads
+- **Metrics**: ⬇️ 77092664 downloads
 - **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 16756237 downloads
+- **Metrics**: ⬇️ 18796783 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 14725379 downloads
+- **Metrics**: ⬇️ 15957520 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ### 🔥🔥🔥🔥🔥 Bingsu/adetailer
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 14621856 downloads
+- **Metrics**: ⬇️ 14492026 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Bingsu/adetailer)
-
-
-## Rust 
-
-### 🔥 run
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 491
-- **Link**: [github.com](https://github.com/Esubaalew/run)
-
-
-## Web 
-
-### 🔥 Lucky-client
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 150
-- **Link**: [github.com](https://github.com/Luckly-XYZ/Lucky-client)
-
-
-## Cloud 
-
-### 🔥 App not accessible in Azure Kubernetes with Istio Gateway
-
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79783462/app-not-accessible-in-azure-kubernetes-with-istio-gateway)
 
 
 
