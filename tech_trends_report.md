@@ -1,43 +1,43 @@
-# Weekly Tech Trends Report (2025-11-17)
+# Weekly Tech Trends Report (2025-11-24)
 
-> This report is automatically generated, tracking 13 trending tech items.
+> This report is automatically generated, tracking 14 trending tech items.
 
 
 ## Other 
 
+### 🔥🔥🔥🔥🔥 llm-council
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3034
+- **Link**: [github.com](https://github.com/karpathy/llm-council)
+
+
+### 🔥🔥🔥🔥🔥 reader3
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2025
+- **Link**: [github.com](https://github.com/karpathy/reader3)
+
+
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 143119051 downloads
+- **Metrics**: ⬇️ 146026841 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 75293128 downloads
+- **Metrics**: ⬇️ 73753141 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 55292853 downloads
+- **Metrics**: ⬇️ 60172917 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
-
-
-### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 21837185 downloads
-- **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
-
-
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 18629308 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 
 
 ## AI 
@@ -45,61 +45,68 @@
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 67843812 downloads
+- **Metrics**: ⬇️ 69218761 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 22872027 downloads
+- **Metrics**: ⬇️ 25597893 downloads
 - **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 18751918 downloads
+- **Metrics**: ⬇️ 19114637 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
-
-
-### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17073475 downloads
-- **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 14391535 downloads
+- **Metrics**: ⬇️ 16854749 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
+
+
+### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 15822105 downloads
+- **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
 
 
 ## Rust 
 
-### 🔥 spoofer-hwid
+### 🔥🔥 moss
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 177
-- **Link**: [github.com](https://github.com/avebonkers176/spoofer-hwid)
+- **Metrics**: ⭐ 646
+- **Link**: [github.com](https://github.com/hexagonal-sun/moss)
+
+
+### 🔥 Stelliberty
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 182
+- **Link**: [github.com](https://github.com/Kindness-Kismet/Stelliberty)
 
 
 ## Web 
 
-### 🔥 PyPhisher
+### 🔥 claude-agent-server
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 170
-- **Link**: [github.com](https://github.com/hotchocolate469/PyPhisher)
+- **Metrics**: ⭐ 361
+- **Link**: [github.com](https://github.com/dzhng/claude-agent-server)
 
 
-### 🔥 Adding soft line breaks in Quill 2.0 and React 19
+### 🔥 dembrandt
 
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79822028/adding-soft-line-breaks-in-quill-2-0-and-react-19)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 174
+- **Link**: [github.com](https://github.com/thevangelist/dembrandt)
 
 
 
