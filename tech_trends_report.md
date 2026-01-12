@@ -1,105 +1,89 @@
-# Weekly Tech Trends Report (2026-01-05)
+# Weekly Tech Trends Report (2026-01-12)
 
-> This report is automatically generated, tracking 13 trending tech items.
+> This report is automatically generated, tracking 11 trending tech items.
 
 
 ## Other 
 
+### 🔥🔥🔥🔥🔥 claude-code-showcase
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 4037
+- **Link**: [github.com](https://github.com/ChrisWiles/claude-code-showcase)
+
+
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 142077154 downloads
+- **Metrics**: ⬇️ 138233439 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 53518433 downloads
+- **Metrics**: ⬇️ 51707020 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 43254535 downloads
+- **Metrics**: ⬇️ 38779821 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 23765504 downloads
+- **Metrics**: ⬇️ 22969680 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
-
-
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 23107621 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
-
-
-## Cloud 
-
-### 🔥🔥 taws
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 618
-- **Link**: [github.com](https://github.com/huseyinbabal/taws)
-
-
-### 🔥 Error connecting to Redis on redis:6379 (SocketError) at aws, ecs
-
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79860555/error-connecting-to-redis-on-redis6379-socketerror-at-aws-ecs)
 
 
 ## AI 
 
+### 🔥🔥🔥🔥🔥 ralph
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2918
+- **Link**: [github.com](https://github.com/snarktank/ralph)
+
+
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 54053804 downloads
+- **Metrics**: ⬇️ 47102559 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
-
-
-### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 29368710 downloads
-- **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 23678895 downloads
+- **Metrics**: ⬇️ 25827824 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
 
 
-### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
+### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 14100541 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
+- **Metrics**: ⬇️ 24980858 downloads
+- **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 13197656 downloads
+- **Metrics**: ⬇️ 14496974 downloads
 - **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
 
 
 ## Web 
 
-### 🔥 claude-run
+### 🔥 How do I create an HTML element and set its style attributes in javascript
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 329
-- **Link**: [github.com](https://github.com/kamranahmedse/claude-run)
+- **Source**: ❓ Stackoverflow
+- **Metrics**: 👍 0 | 💬 0
+- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79865743/how-do-i-create-an-html-element-and-set-its-style-attributes-in-javascript)
 
 
 
