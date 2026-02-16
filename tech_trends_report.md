@@ -1,59 +1,43 @@
-# Weekly Tech Trends Report (2026-02-09)
+# Weekly Tech Trends Report (2026-02-16)
 
-> This report is automatically generated, tracking 13 trending tech items.
+> This report is automatically generated, tracking 11 trending tech items.
 
 
 ## Other 
 
+### 🔥🔥🔥🔥🔥 zeroclaw
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 4678
+- **Link**: [github.com](https://github.com/zeroclaw-labs/zeroclaw)
+
+
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 152018449 downloads
+- **Metrics**: ⬇️ 161357630 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
-
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 47692424 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 44802476 downloads
+- **Metrics**: ⬇️ 50191609 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
 
 
-### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
+### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 25020484 downloads
-- **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
+- **Metrics**: ⬇️ 45010166 downloads
+- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 23218857 downloads
+- **Metrics**: ⬇️ 24082643 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
-
-
-## Rust 
-
-### 🔥🔥🔥🔥 claudes-c-compiler
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 1749
-- **Link**: [github.com](https://github.com/anthropics/claudes-c-compiler)
-
-
-### 🔥🔥🔥🔥 vouch
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 1737
-- **Link**: [github.com](https://github.com/mitchellh/vouch)
 
 
 ## AI 
@@ -61,45 +45,45 @@
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 55737593 downloads
+- **Metrics**: ⬇️ 39537821 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
-
-
-### 🔥🔥🔥🔥🔥 dima806/fairface_age_image_detection
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 29751966 downloads
-- **Link**: [huggingface.co](https://huggingface.co/dima806/fairface_age_image_detection)
-
-
-### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 19694701 downloads
-- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17965399 downloads
+- **Metrics**: ⬇️ 21455067 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
 
 ### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17505366 downloads
+- **Metrics**: ⬇️ 18516457 downloads
 - **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
+
+
+### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 17783099 downloads
+- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
+
+
+### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 17537199 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ## Web 
 
-### 🔥 React2Shell-Scanner
+### 🔥 How to make a Material UI react Button act as a react-router-dom Link?
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 378
-- **Link**: [github.com](https://github.com/ula7i921011/React2Shell-Scanner)
+- **Source**: ❓ Stackoverflow
+- **Metrics**: 👍 0 | 💬 0
+- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/51642532/how-to-make-a-material-ui-react-button-act-as-a-react-router-dom-link)
 
 
 
