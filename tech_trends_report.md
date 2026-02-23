@@ -1,43 +1,43 @@
-# Weekly Tech Trends Report (2026-02-16)
+# Weekly Tech Trends Report (2026-02-23)
 
 > This report is automatically generated, tracking 11 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 zeroclaw
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 4678
-- **Link**: [github.com](https://github.com/zeroclaw-labs/zeroclaw)
-
-
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 161357630 downloads
+- **Metrics**: ⬇️ 168517282 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 50191609 downloads
+- **Metrics**: ⬇️ 53047036 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
 
 
 ### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 45010166 downloads
+- **Metrics**: ⬇️ 43554701 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 24082643 downloads
+- **Metrics**: ⬇️ 24517505 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+
+
+### 🔥🔥🔥🔥🔥 timm/mobilenetv3_small_100.lamb_in1k
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 22651444 downloads
+- **Link**: [huggingface.co](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k)
 
 
 ## AI 
@@ -45,45 +45,45 @@
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 39537821 downloads
+- **Metrics**: ⬇️ 36693497 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 21455067 downloads
+- **Metrics**: ⬇️ 22775204 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
-
-
-### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 18516457 downloads
-- **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17783099 downloads
+- **Metrics**: ⬇️ 20050017 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
+
+
+### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 18636710 downloads
+- **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17537199 downloads
+- **Metrics**: ⬇️ 18046122 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ## Web 
 
-### 🔥 How to make a Material UI react Button act as a react-router-dom Link?
+### 🔥🔥 Polymarket-rsi-macd-index-trading-bot
 
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/51642532/how-to-make-a-material-ui-react-button-act-as-a-react-router-dom-link)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 612
+- **Link**: [github.com](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)
 
 
 
