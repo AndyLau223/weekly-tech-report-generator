@@ -1,119 +1,149 @@
-# Weekly Tech Trends Report (2026-03-30)
+# Weekly Tech Trends Report (2026-04-06)
 
-> This report is automatically generated, tracking 15 trending tech items.
-
-
-## AI 
-
-### 🔥🔥🔥🔥🔥 cli
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 4194
-- **Link**: [github.com](https://github.com/larksuite/cli)
+> This report is automatically generated, tracking 19 trending tech items.
 
 
-### 🔥🔥🔥🔥🔥 G0DM0D3
+## Rust 
+
+### 🔥🔥🔥🔥🔥 claw-code
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2073
-- **Link**: [github.com](https://github.com/elder-plinius/G0DM0D3)
+- **Metrics**: ⭐ 172060
+- **Link**: [github.com](https://github.com/ultraworkers/claw-code)
 
 
-### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 41029190 downloads
-- **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
-
-
-### 🔥🔥🔥🔥🔥 laion/clap-htsat-fused
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 26156112 downloads
-- **Link**: [huggingface.co](https://huggingface.co/laion/clap-htsat-fused)
-
-
-### 🔥🔥🔥🔥🔥 openai/clip-vit-large-patch14
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 24518351 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-large-patch14)
-
-
-## Cloud 
-
-### 🔥🔥🔥🔥🔥 OpenSpace
+### 🔥🔥🔥🔥🔥 claurst
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2609
-- **Link**: [github.com](https://github.com/HKUDS/OpenSpace)
+- **Metrics**: ⭐ 8385
+- **Link**: [github.com](https://github.com/Kuberwastaken/claurst)
 
 
-### 🔥🔥 legalize-es
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 781
-- **Link**: [github.com](https://github.com/legalize-dev/legalize-es)
-
-
-### 🔥 How to bypass cloudflare ddos or redirect after 5 seconds using JSOUP?
-
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/43453491/how-to-bypass-cloudflare-ddos-or-redirect-after-5-seconds-using-jsoup)
-
-
-## Other 
-
-### 🔥🔥🔥🔥🔥 flipoff
+### 🔥🔥🔥🔥🔥 claw-code-parity
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2453
-- **Link**: [github.com](https://github.com/magnum6actual/flipoff)
-
-
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 206238498 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
-
-### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 71817797 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
-
-
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 50825694 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
-
-
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 29358404 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+- **Metrics**: ⭐ 6524
+- **Link**: [github.com](https://github.com/ultraworkers/claw-code-parity)
 
 
 ## Web 
 
-### 🔥🔥🔥 opencli-rs
+### 🔥🔥🔥🔥🔥 awesome-design-md
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1004
-- **Link**: [github.com](https://github.com/nashsu/opencli-rs)
+- **Metrics**: ⭐ 17923
+- **Link**: [github.com](https://github.com/VoltAgent/awesome-design-md)
 
 
-### 🔥🔥🔥 Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
+### 🔥🔥🔥🔥🔥 claude-code
 
-- **Source**: 📜 Arxiv
-- **Metrics**: Recent advances in large language models have improved the capabilities of coding agents, yet systematic evaluation of complex, end-to-end website development remains limited. To address this gap, we introduce Vision2Web, a hierarchical benchmark for visual website development, spanning from static UI-to-code generation, interactive multi-page frontend reproduction, to long-horizon full-stack website development. The benchmark is constructed from real-world websites and comprises a total of 193 tasks across 16 categories, with 918 prototype images and 1,255 test cases. To support flexible, thorough and reliable evaluation, we propose workflow-based agent verification paradigm based on two complementary components: a GUI agent verifier and a VLM-based judge. We evaluate multiple visual language models instantiated under different coding-agent frameworks, revealing substantial performance gaps at all task levels, with state-of-the-art models still struggling on full-stack development.
-- **Link**: [arxiv.org](http://arxiv.org/abs/2603.26648v1)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 14015
+- **Link**: [github.com](https://github.com/claude-code-best/claude-code)
+
+
+### 🔥🔥🔥🔥🔥 emdash
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 7564
+- **Link**: [github.com](https://github.com/emdash-cms/emdash)
+
+
+### 🔥🔥🔥🔥🔥 open-multi-agent
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 4997
+- **Link**: [github.com](https://github.com/JackChen-me/open-multi-agent)
+
+
+### 🔥🔥🔥🔥🔥 open-agent-sdk-typescript
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2366
+- **Link**: [github.com](https://github.com/codeany-ai/open-agent-sdk-typescript)
+
+
+## AI 
+
+### 🔥🔥🔥🔥🔥 openclaude
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 16805
+- **Link**: [github.com](https://github.com/Gitlawb/openclaude)
+
+
+### 🔥🔥🔥🔥🔥 career-ops
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5837
+- **Link**: [github.com](https://github.com/santifer/career-ops)
+
+
+### 🔥🔥🔥🔥🔥 ai-agent-deep-dive
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5165
+- **Link**: [github.com](https://github.com/tvytlx/ai-agent-deep-dive)
+
+
+### 🔥🔥🔥🔥🔥 ex-skill
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2819
+- **Link**: [github.com](https://github.com/therealXiaomanChu/ex-skill)
+
+
+### 🔥🔥🔥🔥🔥 cc-gateway
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2403
+- **Link**: [github.com](https://github.com/motiful/cc-gateway)
+
+
+## Other 
+
+### 🔥🔥🔥🔥🔥 learn-coding-agent
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 11356
+- **Link**: [github.com](https://github.com/sanbuphy/learn-coding-agent)
+
+
+### 🔥🔥🔥🔥🔥 claude-code-sourcemap
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 8476
+- **Link**: [github.com](https://github.com/ChinaSiro/claude-code-sourcemap)
+
+
+### 🔥🔥🔥🔥🔥 OpenHarness
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5742
+- **Link**: [github.com](https://github.com/HKUDS/OpenHarness)
+
+
+### 🔥🔥🔥🔥🔥 cc-haha
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5137
+- **Link**: [github.com](https://github.com/NanmiCoder/cc-haha)
+
+
+### 🔥🔥🔥🔥🔥 autoagent
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3257
+- **Link**: [github.com](https://github.com/kevinrgu/autoagent)
+
+
+## Cloud 
+
+### 🔥 Trying to install node.js app on Cloudlinux server using cPanel and Passenger
+
+- **Source**: ❓ Stackoverflow
+- **Metrics**: 👍 0 | 💬 0
+- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79920822/trying-to-install-node-js-app-on-cloudlinux-server-using-cpanel-and-passenger)
 
 
 
