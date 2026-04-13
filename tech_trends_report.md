@@ -1,149 +1,98 @@
-# Weekly Tech Trends Report (2026-04-06)
+# Weekly Tech Trends Report (2026-04-13)
 
-> This report is automatically generated, tracking 19 trending tech items.
-
-
-## Rust 
-
-### 🔥🔥🔥🔥🔥 claw-code
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 172060
-- **Link**: [github.com](https://github.com/ultraworkers/claw-code)
-
-
-### 🔥🔥🔥🔥🔥 claurst
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 8385
-- **Link**: [github.com](https://github.com/Kuberwastaken/claurst)
-
-
-### 🔥🔥🔥🔥🔥 claw-code-parity
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 6524
-- **Link**: [github.com](https://github.com/ultraworkers/claw-code-parity)
-
-
-## Web 
-
-### 🔥🔥🔥🔥🔥 awesome-design-md
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 17923
-- **Link**: [github.com](https://github.com/VoltAgent/awesome-design-md)
-
-
-### 🔥🔥🔥🔥🔥 claude-code
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 14015
-- **Link**: [github.com](https://github.com/claude-code-best/claude-code)
-
-
-### 🔥🔥🔥🔥🔥 emdash
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 7564
-- **Link**: [github.com](https://github.com/emdash-cms/emdash)
-
-
-### 🔥🔥🔥🔥🔥 open-multi-agent
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 4997
-- **Link**: [github.com](https://github.com/JackChen-me/open-multi-agent)
-
-
-### 🔥🔥🔥🔥🔥 open-agent-sdk-typescript
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 2366
-- **Link**: [github.com](https://github.com/codeany-ai/open-agent-sdk-typescript)
-
-
-## AI 
-
-### 🔥🔥🔥🔥🔥 openclaude
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 16805
-- **Link**: [github.com](https://github.com/Gitlawb/openclaude)
-
-
-### 🔥🔥🔥🔥🔥 career-ops
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 5837
-- **Link**: [github.com](https://github.com/santifer/career-ops)
-
-
-### 🔥🔥🔥🔥🔥 ai-agent-deep-dive
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 5165
-- **Link**: [github.com](https://github.com/tvytlx/ai-agent-deep-dive)
-
-
-### 🔥🔥🔥🔥🔥 ex-skill
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 2819
-- **Link**: [github.com](https://github.com/therealXiaomanChu/ex-skill)
-
-
-### 🔥🔥🔥🔥🔥 cc-gateway
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 2403
-- **Link**: [github.com](https://github.com/motiful/cc-gateway)
+> This report is automatically generated, tracking 12 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 learn-coding-agent
+### 🔥🔥🔥🔥🔥 clicky
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 11356
-- **Link**: [github.com](https://github.com/sanbuphy/learn-coding-agent)
+- **Metrics**: ⭐ 4000
+- **Link**: [github.com](https://github.com/farzaa/clicky)
 
 
-### 🔥🔥🔥🔥🔥 claude-code-sourcemap
+### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 196242264 downloads
+- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
+
+### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 64955150 downloads
+- **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
+
+
+### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 48441319 downloads
+- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
+
+
+### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 30685756 downloads
+- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+
+
+## AI 
+
+### 🔥🔥🔥🔥🔥 hermes-agent-orange-book
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 8476
-- **Link**: [github.com](https://github.com/ChinaSiro/claude-code-sourcemap)
+- **Metrics**: ⭐ 2211
+- **Link**: [github.com](https://github.com/alchaincyf/hermes-agent-orange-book)
 
 
-### 🔥🔥🔥🔥🔥 OpenHarness
+### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 37877016 downloads
+- **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
+
+
+### 🔥🔥🔥🔥🔥 openai/clip-vit-large-patch14
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 28680807 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-large-patch14)
+
+
+### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 20760866 downloads
+- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
+
+
+### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 20679610 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
+
+
+## Rust 
+
+### 🔥🔥 rattles
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 5742
-- **Link**: [github.com](https://github.com/HKUDS/OpenHarness)
+- **Metrics**: ⭐ 700
+- **Link**: [github.com](https://github.com/vyfor/rattles)
 
 
-### 🔥🔥🔥🔥🔥 cc-haha
+## Web 
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 5137
-- **Link**: [github.com](https://github.com/NanmiCoder/cc-haha)
-
-
-### 🔥🔥🔥🔥🔥 autoagent
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 3257
-- **Link**: [github.com](https://github.com/kevinrgu/autoagent)
-
-
-## Cloud 
-
-### 🔥 Trying to install node.js app on Cloudlinux server using cPanel and Passenger
+### 🔥 React Native dev tools issue
 
 - **Source**: ❓ Stackoverflow
 - **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79920822/trying-to-install-node-js-app-on-cloudlinux-server-using-cpanel-and-passenger)
+- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79924697/react-native-dev-tools-issue)
 
 
 
