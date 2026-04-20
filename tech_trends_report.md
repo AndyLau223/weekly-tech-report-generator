@@ -1,98 +1,98 @@
-# Weekly Tech Trends Report (2026-04-13)
+# Weekly Tech Trends Report (2026-04-20)
 
 > This report is automatically generated, tracking 12 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 clicky
+### 🔥🔥🔥🔥🔥 lingbot-map
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 4000
-- **Link**: [github.com](https://github.com/farzaa/clicky)
+- **Metrics**: ⭐ 2848
+- **Link**: [github.com](https://github.com/Robbyant/lingbot-map)
+
+
+### 🔥🔥🔥🔥🔥 browser-harness
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2844
+- **Link**: [github.com](https://github.com/browser-use/browser-harness)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 196242264 downloads
+- **Metrics**: ⬇️ 203915902 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
+
+### 🔥🔥🔥🔥🔥 Qwen/Qwen3-VL-2B-Instruct
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 64924584 downloads
+- **Link**: [huggingface.co](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 64955150 downloads
+- **Metrics**: ⬇️ 60352266 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
-
-
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 48441319 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
-
-
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-mpnet-base-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 30685756 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 
 
 ## AI 
 
-### 🔥🔥🔥🔥🔥 hermes-agent-orange-book
+### 🔥🔥🔥🔥🔥 OpenMythos
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2211
-- **Link**: [github.com](https://github.com/alchaincyf/hermes-agent-orange-book)
+- **Metrics**: ⭐ 2552
+- **Link**: [github.com](https://github.com/kyegomez/OpenMythos)
 
 
 ### 🔥🔥🔥🔥🔥 Falconsai/nsfw_image_detection
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 37877016 downloads
+- **Metrics**: ⬇️ 35808992 downloads
 - **Link**: [huggingface.co](https://huggingface.co/Falconsai/nsfw_image_detection)
 
 
-### 🔥🔥🔥🔥🔥 openai/clip-vit-large-patch14
+### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 28680807 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-large-patch14)
+- **Metrics**: ⬇️ 21855356 downloads
+- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/roberta-large
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 20760866 downloads
+- **Metrics**: ⬇️ 21023613 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/roberta-large)
 
 
-### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
+### 🔥🔥🔥🔥🔥 openai/clip-vit-large-patch14
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 20679610 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
-
-
-## Rust 
-
-### 🔥🔥 rattles
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 700
-- **Link**: [github.com](https://github.com/vyfor/rattles)
+- **Metrics**: ⬇️ 20954194 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-large-patch14)
 
 
 ## Web 
 
-### 🔥 React Native dev tools issue
+### 🔥🔥🔥🔥🔥 wterm
 
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79924697/react-native-dev-tools-issue)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2154
+- **Link**: [github.com](https://github.com/vercel-labs/wterm)
+
+
+## Cloud 
+
+### 🔥🔥 xata
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 652
+- **Link**: [github.com](https://github.com/xataio/xata)
 
 
 
