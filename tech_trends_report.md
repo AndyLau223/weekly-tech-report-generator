@@ -1,112 +1,96 @@
-# Weekly Tech Trends Report (2026-06-08)
+# Weekly Tech Trends Report (2026-06-15)
 
-> This report is automatically generated, tracking 14 trending tech items.
+> This report is automatically generated, tracking 12 trending tech items.
 
 
 ## AI 
 
-### 🔥🔥🔥🔥🔥 skylight
+### 🔥🔥🔥🔥🔥 ponytail
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2332
-- **Link**: [github.com](https://github.com/cpaczek/skylight)
+- **Metrics**: ⭐ 12204
+- **Link**: [github.com](https://github.com/DietrichGebert/ponytail)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 57400709 downloads
+- **Metrics**: ⬇️ 39663955 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-m3
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 31789934 downloads
+- **Metrics**: ⬇️ 22092012 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 23113788 downloads
+- **Metrics**: ⬇️ 15725208 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 21898195 downloads
+- **Metrics**: ⬇️ 14953659 downloads
 - **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 goose
+### 🔥🔥🔥🔥🔥 MiMo-Code
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2296
-- **Link**: [github.com](https://github.com/b-nnett/goose)
+- **Metrics**: ⭐ 8853
+- **Link**: [github.com](https://github.com/XiaomiMiMo/MiMo-Code)
+
+
+### 🔥🔥🔥🔥🔥 improve
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 4704
+- **Link**: [github.com](https://github.com/shadcn/improve)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 251654846 downloads
+- **Metrics**: ⬇️ 167480843 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 cross-encoder/ms-marco-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 75647134 downloads
+- **Metrics**: ⬇️ 52067168 downloads
 - **Link**: [huggingface.co](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 63727096 downloads
+- **Metrics**: ⬇️ 41469324 downloads
 - **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
-
-
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 55771742 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
-
-
-## Cloud 
-
-### 🔥🔥 sandboxd
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 508
-- **Link**: [github.com](https://github.com/tastyeffectco/sandboxd)
 
 
 ## Web 
 
-### 🔥 9drive
+### 🔥🔥🔥 kage
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 435
-- **Link**: [github.com](https://github.com/zenhosta/9drive)
+- **Metrics**: ⭐ 1266
+- **Link**: [github.com](https://github.com/tamnd/kage)
 
 
-### 🔥 Why is JavaScript seemingly skipping a portion of my function&#39;s code?
+### 🔥🔥 slot-text
 
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79952989/why-is-javascript-seemingly-skipping-a-portion-of-my-functions-code)
-
-
-### 🔥 Hello what is stack overflow and how is it usefull for new web developer like me
-
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79952958/hello-what-is-stack-overflow-and-how-is-it-usefull-for-new-web-developer-like-me)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 647
+- **Link**: [github.com](https://github.com/Danilaa1/slot-text)
 
 
 
