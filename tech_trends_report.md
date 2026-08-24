@@ -1,112 +1,98 @@
-# Weekly Tech Trends Report (2026-08-17)
+# Weekly Tech Trends Report (2026-08-24)
 
-> This report is automatically generated, tracking 14 trending tech items.
+> This report is automatically generated, tracking 12 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 deepseek-harness
+### 🔥🔥🔥🔥🔥 ip-as-logo-skill
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 142604
-- **Link**: [github.com](https://github.com/deepseek-ai/deepseek-harness)
+- **Metrics**: ⭐ 3995
+- **Link**: [github.com](https://github.com/s1dashu/ip-as-logo-skill)
 
 
-### 🔥🔥🔥🔥🔥 deepseek-harness-desktop
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 10670
-- **Link**: [github.com](https://github.com/anywhere-labs/deepseek-harness-desktop)
-
-
-### 🔥🔥🔥🔥🔥 awesome-dsh-plugin
+### 🔥🔥🔥🔥🔥 threeui
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 6773
-- **Link**: [github.com](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+- **Metrics**: ⭐ 3178
+- **Link**: [github.com](https://github.com/MengTo/threeui)
 
 
-### 🔥🔥🔥🔥🔥 dsh-anchored-standard
+### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 3292
-- **Link**: [github.com](https://github.com/xiaobright/dsh-anchored-standard)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 255841858 downloads
+- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
-### 🔥🔥🔥🔥🔥 dsh-routing-suite
+### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
 
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 3164
-- **Link**: [github.com](https://github.com/yjh051108/dsh-routing-suite)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 95424377 downloads
+- **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
+
+
+### 🔥🔥🔥🔥🔥 cross-encoder/ms-marco-MiniLM-L6-v2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 87612957 downloads
+- **Link**: [huggingface.co](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
 
 
 ## AI 
 
-### 🔥🔥🔥🔥🔥 watermarks-remover
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 12414
-- **Link**: [github.com](https://github.com/guillaumemeyer/watermarks-remover)
-
-
 ### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 73700917 downloads
+- **Metrics**: ⬇️ 71619849 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-m3
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 35540813 downloads
+- **Metrics**: ⬇️ 36411088 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 20842822 downloads
+- **Metrics**: ⬇️ 20449844 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
+
+
+### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 18722400 downloads
+- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-reranker-v2-m3
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 18790042 downloads
+- **Metrics**: ⬇️ 18610016 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-reranker-v2-m3)
-
-
-## Web 
-
-### 🔥🔥🔥🔥🔥 dsh-web-ui
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 3836
-- **Link**: [github.com](https://github.com/zhu1090093659/dsh-web-ui)
-
-
-### 🔥🔥🔥🔥 anti-slop
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 1827
-- **Link**: [github.com](https://github.com/dmmulroy/anti-slop)
-
-
-### 🔥 Why is my website slow from India to a US GoDaddy server despite low ping?
-
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79995749/why-is-my-website-slow-from-india-to-a-us-godaddy-server-despite-low-ping)
 
 
 ## Rust 
 
-### 🔥🔥🔥 Trust Without Boundaries: An Architectural Analysis of Satellite Flight Software
+### 🔥🔥 Wake
 
-- **Source**: 📜 Arxiv
-- **Metrics**: As spacecraft become more software-driven and interconnected, onboard flight software is an increasingly important security boundary. Popular flight software architectures often treat onboard components as trusted peers, simplifying integration while limiting internal isolation and access control. We analyze NASA's Core Flight Software (cFS) to examine how authority, identity, communication, observability, and persistence are distributed across onboard components. Using NASA's flight-representative NOS3 simulator, we validate these weaknesses through five experiments implemented with a malicious onboard component that abuses legitimate architectural privileges. We then compare cFS with other modular flight software frameworks to identify recurring trust assumptions and architectural weaknesses. Our results show that a single compromised component can exploit broadly shared authority in ways that are difficult to distinguish from legitimate behavior. We conclude with architectural implications and discuss mechanisms for strengthening internal trust boundaries in future flight software systems.
-- **Link**: [arxiv.org](http://arxiv.org/abs/2608.14532v1)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 570
+- **Link**: [github.com](https://github.com/iAmCorey/Wake)
+
+
+## Web 
+
+### 🔥🔥 scroll-craft
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 542
+- **Link**: [github.com](https://github.com/nateherkai/scroll-craft)
 
 
 
