@@ -1,96 +1,105 @@
-# Weekly Tech Trends Report (2026-09-14)
+# Weekly Tech Trends Report (2026-09-21)
 
-> This report is automatically generated, tracking 12 trending tech items.
+> This report is automatically generated, tracking 13 trending tech items.
+
+
+## Web 
+
+### 🔥🔥🔥🔥🔥 jev-ultrafast
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 14650
+- **Link**: [github.com](https://github.com/browser-use/jev-ultrafast)
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
+### 🔥🔥🔥🔥🔥 laya
 
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 252806720 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
-
-### 🔥🔥🔥🔥🔥 cross-encoder/ms-marco-MiniLM-L6-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 87484661 downloads
-- **Link**: [huggingface.co](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 8222
+- **Link**: [github.com](https://github.com/NandhaKishorM/laya)
 
 
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
+### 🔥🔥🔥🔥🔥 fast-jev-compaction
 
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 58989649 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
-
-
-### 🔥🔥🔥🔥🔥 google-bert/bert-base-uncased
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 46435111 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google-bert/bert-base-uncased)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5823
+- **Link**: [github.com](https://github.com/tamaratran/fast-jev-compaction)
 
 
-### 🔥🔥🔥🔥🔥 sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+### 🔥🔥🔥🔥🔥 Compositor
 
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 45436675 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 4188
+- **Link**: [github.com](https://github.com/robbietilton/Compositor)
+
+
+### 🔥🔥🔥🔥🔥 SemIf
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2898
+- **Link**: [github.com](https://github.com/TheoLeeCJ/SemIf)
+
+
+### 🔥🔥🔥🔥🔥 jianying-headless
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2306
+- **Link**: [github.com](https://github.com/mcncarl/jianying-headless)
 
 
 ## AI 
 
+### 🔥🔥🔥🔥🔥 ZCode
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5203
+- **Link**: [github.com](https://github.com/zai-org/ZCode)
+
+
 ### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 63865672 downloads
+- **Metrics**: ⬇️ 64343667 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-m3
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 37522521 downloads
+- **Metrics**: ⬇️ 37317623 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
-
-
-### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 22006202 downloads
-- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 21349787 downloads
+- **Metrics**: ⬇️ 21877109 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
-### 🔥🔥🔥🔥🔥 BAAI/bge-reranker-v2-m3
+### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 18013116 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-reranker-v2-m3)
+- **Metrics**: ⬇️ 20917518 downloads
+- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
 
 ## Cloud 
 
-### 🔥🔥 truanayangi
+### 🔥🔥🔥🔥🔥 laya-mlx
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 598
-- **Link**: [github.com](https://github.com/truanayangi-com/truanayangi)
+- **Metrics**: ⭐ 2937
+- **Link**: [github.com](https://github.com/mizorewww/laya-mlx)
 
 
-### 🔥🔥 cloudflare-turnstile-bypass
+### 🔥🔥 awesome-cloudflare-selfhosted
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 540
-- **Link**: [github.com](https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass)
+- **Metrics**: ⭐ 755
+- **Link**: [github.com](https://github.com/theoephraim/awesome-cloudflare-selfhosted)
 
 
 
