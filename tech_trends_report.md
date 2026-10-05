@@ -1,105 +1,98 @@
-# Weekly Tech Trends Report (2026-09-28)
+# Weekly Tech Trends Report (2026-10-05)
 
-> This report is automatically generated, tracking 13 trending tech items.
+> This report is automatically generated, tracking 12 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 CLM
+### 🔥🔥🔥🔥🔥 universal-modder
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2176
-- **Link**: [github.com](https://github.com/Contrastive-LM/CLM)
+- **Metrics**: ⭐ 3657
+- **Link**: [github.com](https://github.com/rehan-remade/universal-modder)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 242677197 downloads
+- **Metrics**: ⬇️ 235658929 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 cross-encoder/ms-marco-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 86477450 downloads
+- **Metrics**: ⬇️ 84083137 downloads
 - **Link**: [huggingface.co](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
-
-
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 46262071 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 45537597 downloads
+- **Metrics**: ⬇️ 50986818 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
 
 
-## Rust 
+### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
 
-### 🔥🔥🔥🔥 disktree
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 1778
-- **Link**: [github.com](https://github.com/tobi/disktree)
-
-
-### 🔥🔥🔥 Trust Guided Decision Transformer
-
-- **Source**: 📜 Arxiv
-- **Metrics**: Decision Transformer performance degrades on long rollouts because the conditioning context drifts out of the training distribution. We show that this drift is visible through the model's own next state prediction error, which rises during rollout and stays elevated, giving a direct signal of when context has become unreliable. We introduce Trust Guided Decision Transformer (TGDT), which selects context before applying value guidance. At each step, TGDT evaluates several recent context suffixes using rolling next state prediction error, calibrated against held out offline data via split conformal prediction. It keeps only suffixes whose error stays within the calibrated threshold, then uses a frozen critic to choose the highest value action among the trusted suffixes. This reverses the order used by value only elastic selection, where the critic may choose an action generated from a context the model itself has flagged as unreliable. Experiments on D4RL navigation and locomotion tasks show that state prediction, critic guidance, and hard context reset each solve only part of the problem. TGDT reduces persistent high error runs and improves return over vanilla Decision Transformer, reset based context control, and value only context selection.
-- **Link**: [arxiv.org](http://arxiv.org/abs/2609.31586v1)
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 45905787 downloads
+- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
 
 
 ## AI 
 
+### 🔥🔥🔥🔥🔥 OpenDots
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3538
+- **Link**: [github.com](https://github.com/CopilotKit/OpenDots)
+
+
+### 🔥🔥🔥🔥🔥 dots
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2612
+- **Link**: [github.com](https://github.com/feder-cr/dots)
+
+
 ### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 63262721 downloads
+- **Metrics**: ⬇️ 62625826 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-m3
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 36143759 downloads
+- **Metrics**: ⬇️ 34127223 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 21696118 downloads
+- **Metrics**: ⬇️ 20639263 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
-### 🔥🔥🔥🔥🔥 FacebookAI/xlm-roberta-base
+## Rust 
 
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17892155 downloads
-- **Link**: [huggingface.co](https://huggingface.co/FacebookAI/xlm-roberta-base)
-
-
-### 🔥🔥🔥🔥🔥 BAAI/bge-reranker-v2-m3
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17068125 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-reranker-v2-m3)
-
-
-## Web 
-
-### 🔥🔥 anidoodle
+### 🔥🔥🔥🔥 photocraft
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 644
-- **Link**: [github.com](https://github.com/alexgreensh/anidoodle)
+- **Metrics**: ⭐ 1719
+- **Link**: [github.com](https://github.com/storytold/photocraft)
+
+
+## Quantum 
+
+### 🔥🔥🔥 Quantum estimation, channel orders, and private capacity
+
+- **Source**: 📜 Arxiv
+- **Metrics**: Recent examples have shown that zero private capacity need not imply antidegradability and that two channels with zero private capacity can nevertheless transmit private information together. Existing entropic channel orders compare what a receiver and its environment can learn and thereby bound capacities. We connect these orders to the recent constructions through binary estimation, whose minimum mean-square error is governed by measured $χ^2$ divergence. A new integral representation shows how measured $χ^2$ on a qubit extension recovers quantum $χ^2$. It lets us pass from complete measured-$χ^2$ ordering to complete quantum-$χ^2$, relative-entropy, and less-noisy ordering. Zhu and Wang used a signed lift to show that their qutrit channel has zero private capacity. We show that Hermitian-smoothed measured-$χ^2$ ordering characterizes when such lifts exist, even with a quantum reference. Environmental dominance in binary estimation at every blocklength yields a finite-code reliability--secrecy bound. These results explain why complete comparison prevents activation with antidegradable helpers whereas regularized comparison alone does not. Building on that qutrit example, we establish this stability for a range of noisy Werner--Holevo channels, determine sharp private-capacity and antidegradability thresholds, and compute exact complementary capacities in a nondegradable range. By contrast, we extend Pauli half-erasure activation to all $1/2\le p<1$ and establish the same range for a new four-level family. Reference-assisted measured-$χ^2$ witnesses show why these activating constructions lack complete comparison.
+- **Link**: [arxiv.org](http://arxiv.org/abs/2610.03706v1)
 
 
 
