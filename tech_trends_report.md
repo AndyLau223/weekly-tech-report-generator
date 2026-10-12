@@ -1,98 +1,110 @@
-# Weekly Tech Trends Report (2026-10-05)
+# Weekly Tech Trends Report (2026-10-12)
 
-> This report is automatically generated, tracking 12 trending tech items.
+> This report is automatically generated, tracking 14 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 universal-modder
+### 🔥🔥🔥🔥🔥 math
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 3657
-- **Link**: [github.com](https://github.com/rehan-remade/universal-modder)
+- **Metrics**: ⭐ 14358
+- **Link**: [github.com](https://github.com/openai/math)
+
+
+### 🔥🔥🔥🔥🔥 huashu-art-motion
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3570
+- **Link**: [github.com](https://github.com/alchaincyf/huashu-art-motion)
+
+
+### 🔥🔥🔥🔥🔥 iPhone-use
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3342
+- **Link**: [github.com](https://github.com/zhongerxin/iPhone-use)
+
+
+### 🔥🔥🔥🔥🔥 nvidia-macos-driver
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2716
+- **Link**: [github.com](https://github.com/nullmoth/nvidia-macos-driver)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 235658929 downloads
+- **Metrics**: ⬇️ 221180273 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
-
-### 🔥🔥🔥🔥🔥 cross-encoder/ms-marco-MiniLM-L6-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 84083137 downloads
-- **Link**: [huggingface.co](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
-
-
-### 🔥🔥🔥🔥🔥 sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 50986818 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
-
-
-### 🔥🔥🔥🔥🔥 google/electra-base-discriminator
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 45905787 downloads
-- **Link**: [huggingface.co](https://huggingface.co/google/electra-base-discriminator)
-
-
-## AI 
-
-### 🔥🔥🔥🔥🔥 OpenDots
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 3538
-- **Link**: [github.com](https://github.com/CopilotKit/OpenDots)
-
-
-### 🔥🔥🔥🔥🔥 dots
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 2612
-- **Link**: [github.com](https://github.com/feder-cr/dots)
-
-
-### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 62625826 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
-
-
-### 🔥🔥🔥🔥🔥 BAAI/bge-m3
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 34127223 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
-
-
-### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 20639263 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
 
 
 ## Rust 
 
-### 🔥🔥🔥🔥 photocraft
+### 🔥🔥🔥🔥🔥 wordcraft
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1719
-- **Link**: [github.com](https://github.com/storytold/photocraft)
+- **Metrics**: ⭐ 8405
+- **Link**: [github.com](https://github.com/storytold/wordcraft)
 
 
-## Quantum 
+### 🔥🔥🔥🔥🔥 gridcraft
 
-### 🔥🔥🔥 Quantum estimation, channel orders, and private capacity
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3566
+- **Link**: [github.com](https://github.com/storytold/gridcraft)
 
-- **Source**: 📜 Arxiv
-- **Metrics**: Recent examples have shown that zero private capacity need not imply antidegradability and that two channels with zero private capacity can nevertheless transmit private information together. Existing entropic channel orders compare what a receiver and its environment can learn and thereby bound capacities. We connect these orders to the recent constructions through binary estimation, whose minimum mean-square error is governed by measured $χ^2$ divergence. A new integral representation shows how measured $χ^2$ on a qubit extension recovers quantum $χ^2$. It lets us pass from complete measured-$χ^2$ ordering to complete quantum-$χ^2$, relative-entropy, and less-noisy ordering. Zhu and Wang used a signed lift to show that their qutrit channel has zero private capacity. We show that Hermitian-smoothed measured-$χ^2$ ordering characterizes when such lifts exist, even with a quantum reference. Environmental dominance in binary estimation at every blocklength yields a finite-code reliability--secrecy bound. These results explain why complete comparison prevents activation with antidegradable helpers whereas regularized comparison alone does not. Building on that qutrit example, we establish this stability for a range of noisy Werner--Holevo channels, determine sharp private-capacity and antidegradability thresholds, and compute exact complementary capacities in a nondegradable range. By contrast, we extend Pauli half-erasure activation to all $1/2\le p<1$ and establish the same range for a new four-level family. Reference-assisted measured-$χ^2$ witnesses show why these activating constructions lack complete comparison.
-- **Link**: [arxiv.org](http://arxiv.org/abs/2610.03706v1)
+
+### 🔥🔥🔥🔥🔥 deckcraft
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2381
+- **Link**: [github.com](https://github.com/storytold/deckcraft)
+
+
+### 🔥🔥🔥🔥🔥 soundcraft
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2143
+- **Link**: [github.com](https://github.com/storytold/soundcraft)
+
+
+## AI 
+
+### 🔥🔥🔥🔥🔥 anatomy
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5485
+- **Link**: [github.com](https://github.com/wheresryan22/anatomy)
+
+
+### 🔥🔥🔥🔥🔥 ARTEX
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3535
+- **Link**: [github.com](https://github.com/mhtsec/ARTEX)
+
+
+### 🔥🔥🔥🔥🔥 cadcraft
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3247
+- **Link**: [github.com](https://github.com/storytold/cadcraft)
+
+
+### 🔥🔥🔥🔥🔥 aurelio-finance
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2718
+- **Link**: [github.com](https://github.com/LosaLosSantos/aurelio-finance)
+
+
+### 🔥🔥🔥🔥🔥 omdrop-owl
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2403
+- **Link**: [github.com](https://github.com/t4t5/omdrop-owl)
 
 
 
