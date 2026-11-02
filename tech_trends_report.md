@@ -1,105 +1,80 @@
-# Weekly Tech Trends Report (2026-10-26)
+# Weekly Tech Trends Report (2026-11-02)
 
-> This report is automatically generated, tracking 13 trending tech items.
+> This report is automatically generated, tracking 10 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 aerial-tv
+### 🔥🔥🔥🔥🔥 dsh-superagent-prototype
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 5906
-- **Link**: [github.com](https://github.com/pengchujin/aerial-tv)
+- **Metrics**: ⭐ 12450
+- **Link**: [github.com](https://github.com/deepseek-ai/dsh-superagent-prototype)
 
 
-### 🔥🔥🔥🔥🔥 gpu-unlock-ada
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 3618
-- **Link**: [github.com](https://github.com/JustAResearcher/gpu-unlock-ada)
-
-
-### 🔥🔥🔥🔥🔥 3d-model-anything
+### 🔥🔥🔥🔥🔥 totk-pc-recomp
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2026
-- **Link**: [github.com](https://github.com/wesbos/3d-model-anything)
+- **Metrics**: ⭐ 3822
+- **Link**: [github.com](https://github.com/valentderah/totk-pc-recomp)
 
 
-### 🔥🔥🔥🔥🔥 hatchzip
+### 🔥🔥🔥🔥🔥 pixelfx
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2013
-- **Link**: [github.com](https://github.com/xevrion/hatchzip)
+- **Metrics**: ⭐ 3384
+- **Link**: [github.com](https://github.com/patch-gg/pixelfx)
 
 
-### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
+### 🔥🔥🔥🔥🔥 craft-anything
 
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 190188384 downloads
-- **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3242
+- **Link**: [github.com](https://github.com/storytold/craft-anything)
+
+
+### 🔥🔥🔥🔥🔥 Eglantine
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2335
+- **Link**: [github.com](https://github.com/Djihads80/Eglantine)
 
 
 ## AI 
 
-### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 53066972 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
-
-
-### 🔥🔥🔥🔥🔥 BAAI/bge-m3
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 29675435 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
-
-
-### 🔥🔥🔥🔥🔥 openai-community/gpt2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 21781667 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai-community/gpt2)
-
-
-### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 16773168 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
-
-
-### 🔥🔥🔥🔥🔥 BAAI/bge-reranker-v2-m3
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 14577113 downloads
-- **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-reranker-v2-m3)
-
-
-## Web 
-
-### 🔥🔥🔥 reylo
+### 🔥🔥🔥🔥🔥 unslop
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1293
-- **Link**: [github.com](https://github.com/colinhacks/reylo)
+- **Metrics**: ⭐ 5898
+- **Link**: [github.com](https://github.com/heydamir/unslop)
 
 
-### 🔥 Title: React Native Screens enables edge-to-edge mode on Android 15 despite navigationBarTranslucent: false
-
-- **Source**: ❓ Stackoverflow
-- **Metrics**: 👍 0 | 💬 0
-- **Link**: [stackoverflow.com](https://stackoverflow.com/questions/79865749/title-react-native-screens-enables-edge-to-edge-mode-on-android-15-despite-navi)
-
-
-## Rust 
-
-### 🔥🔥🔥 BeautifulRust
+### 🔥🔥🔥🔥🔥 ai-pose-gallery-zh
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 1099
-- **Link**: [github.com](https://github.com/morganlinton/BeautifulRust)
+- **Metrics**: ⭐ 5460
+- **Link**: [github.com](https://github.com/anhao/ai-pose-gallery-zh)
+
+
+### 🔥🔥🔥🔥🔥 Mika
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 5163
+- **Link**: [github.com](https://github.com/wangzan101/Mika)
+
+
+### 🔥🔥🔥🔥🔥 floorplan
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2153
+- **Link**: [github.com](https://github.com/haydenschmitty/floorplan)
+
+
+### 🔥🔥🔥🔥🔥 nvzhuang
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 2041
+- **Link**: [github.com](https://github.com/paipiange/nvzhuang)
 
 
 
