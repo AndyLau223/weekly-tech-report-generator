@@ -1,43 +1,59 @@
-# Weekly Tech Trends Report (2026-11-16)
+# Weekly Tech Trends Report (2026-11-23)
 
-> This report is automatically generated, tracking 15 trending tech items.
+> This report is automatically generated, tracking 12 trending tech items.
 
 
 ## Other 
 
-### 🔥🔥🔥🔥🔥 chat-demo
+### 🔥🔥🔥🔥🔥 Leonida
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 3987
-- **Link**: [github.com](https://github.com/deepseek-ai/chat-demo)
+- **Metrics**: ⭐ 28960
+- **Link**: [github.com](https://github.com/ItsNotRexed/Leonida)
 
 
-### 🔥🔥🔥🔥🔥 ANR
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 2422
-- **Link**: [github.com](https://github.com/apex-compute/ANR)
-
-
-### 🔥🔥🔥🔥🔥 Erosion-CN
+### 🔥🔥🔥🔥🔥 neonclipping
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2191
-- **Link**: [github.com](https://github.com/Kianuni/Erosion-CN)
+- **Metrics**: ⭐ 2292
+- **Link**: [github.com](https://github.com/iamajmeena/neonclipping)
 
 
 ### 🔥🔥🔥🔥🔥 sentence-transformers/all-MiniLM-L6-v2
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 170160953 downloads
+- **Metrics**: ⬇️ 164731740 downloads
 - **Link**: [huggingface.co](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 ### 🔥🔥🔥🔥🔥 argmaxinc/whisperkit-coreml
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 74682389 downloads
+- **Metrics**: ⬇️ 98106994 downloads
 - **Link**: [huggingface.co](https://huggingface.co/argmaxinc/whisperkit-coreml)
+
+
+### 🔥🔥🔥🔥🔥 cross-encoder/ms-marco-MiniLM-L6-v2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 54750400 downloads
+- **Link**: [huggingface.co](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
+
+
+## Rust 
+
+### 🔥🔥🔥🔥🔥 fast-anything
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 3036
+- **Link**: [github.com](https://github.com/EL4CTEO/fast-anything)
+
+
+### 🔥🔥🔥 WinRust
+
+- **Source**: 🐙 Github
+- **Metrics**: ⭐ 1351
+- **Link**: [github.com](https://github.com/Lemxy/WinRust)
 
 
 ## AI 
@@ -45,77 +61,36 @@
 ### 🔥🔥🔥🔥🔥 blender-ai-mcp-addon
 
 - **Source**: 🐙 Github
-- **Metrics**: ⭐ 2115
-- **Link**: [github.com](https://github.com/hitkeeen/blender-ai-mcp-addon)
+- **Metrics**: ⭐ 2765
+- **Link**: [github.com](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-small-en-v1.5
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 44467542 downloads
+- **Metrics**: ⬇️ 42863227 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-small-en-v1.5)
-
-
-### 🔥🔥🔥🔥🔥 openai-community/gpt2
-
-- **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 34186762 downloads
-- **Link**: [huggingface.co](https://huggingface.co/openai-community/gpt2)
 
 
 ### 🔥🔥🔥🔥🔥 BAAI/bge-m3
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 30561030 downloads
+- **Metrics**: ⬇️ 34423104 downloads
 - **Link**: [huggingface.co](https://huggingface.co/BAAI/bge-m3)
+
+
+### 🔥🔥🔥🔥🔥 openai-community/gpt2
+
+- **Source**: 🔗 Huggingface
+- **Metrics**: ⬇️ 33436225 downloads
+- **Link**: [huggingface.co](https://huggingface.co/openai-community/gpt2)
 
 
 ### 🔥🔥🔥🔥🔥 openai/clip-vit-base-patch32
 
 - **Source**: 🔗 Huggingface
-- **Metrics**: ⬇️ 17673503 downloads
+- **Metrics**: ⬇️ 16883285 downloads
 - **Link**: [huggingface.co](https://huggingface.co/openai/clip-vit-base-patch32)
-
-
-## Web 
-
-### 🔥🔥🔥🔥 abyssal-garden
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 1569
-- **Link**: [github.com](https://github.com/Noniv/abyssal-garden)
-
-
-### 🔥🔥 line-art-animation
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 909
-- **Link**: [github.com](https://github.com/JDhruv14/line-art-animation)
-
-
-### 🔥🔥 islandcn
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 771
-- **Link**: [github.com](https://github.com/opencoredev/islandcn)
-
-
-## Cloud 
-
-### 🔥🔥 open-orange
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 618
-- **Link**: [github.com](https://github.com/rivet-dev/open-orange)
-
-
-## Rust 
-
-### 🔥🔥 relax
-
-- **Source**: 🐙 Github
-- **Metrics**: ⭐ 576
-- **Link**: [github.com](https://github.com/makepad/relax)
 
 
 
